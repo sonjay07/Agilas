@@ -1,0 +1,19 @@
+{
+  "name": "agilas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch" : "node-sass -o css scss -w "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonjay07/Agilas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonjay07/Agilas/issues"
+  },
+  "homepage": "https://github.com/sonjay07/Agilas#readme"
+}
