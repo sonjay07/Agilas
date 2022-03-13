@@ -1,0 +1,90 @@
+$ags-red: #EA1C0A;
+$ags-white: #ffffff;
+$ags-turquoise: #1EA2B1;
+$ags-bordeaux: #B00402;
+$ags-limeyellow: #E3E000;
+$ags-black: #000;
+$ags-darkgrey: #39393a;
+
+$ags-red-active: #D51607;
+$ags-bordeaux-active: #A00311;
+$ags-limeyellow-active: #DAD600;
+$ags-turquoise-active: #2B91A3;
+
+$ags-red-75: #f05548;
+$ags-red-50: #f48D84;
+$ags-red-25: #fAC6C2;
+
+$ags-bordeaux-75: #c44341;
+$ags-bordeaux-50: #d78180;
+$ags-bordeaux-25: #ebc0c0;
+$ags-bordeaux-dark: #76020C;
+
+$ags-limeyellow-75: #eae840;
+$ags-limeyellow-50: #f1ef7f;
+$ags-limeyellow-25: #f8f7bf;
+
+$ags-turquoise-75: #56b9c5;
+$ags-turquoise-50: #8ed0d8;
+$ags-turquoise-25: #c7e8eb;
+$ags-turquoise-dark: #0F738A;
+
+
+$ags-black: #000000;
+$ags-darkgrey: #39393A;
+$ags-darkgrey-active: #404040;
+
+$ags-darkgrey-75: #404040;
+$ags-darkgrey-25: #bfbfbf;
+
+$ags-middlegrey: #8F9192;
+$ags-lightgrey: #E8E8E8;
+$ags-ultralightgrey: #F6F6F7;
+
+
+.bg-ags-red { background-color: $ags-red; }
+.bg-ags-white { background-color: $ags-white; }
+.bg-ags-turquoise { background-color: $ags-turquoise; }
+.bg-ags-bordeaux { background-color: $ags-bordeaux; }
+.bg-ags-limeyellow { background-color: $ags-limeyellow; }
+.bg-ags-black { background-color: $ags-black; }
+.bg-ags-darkgrey { background-color: $ags-darkgrey; }
+.bg-ags-red-active { background-color: $ags-red-active; }
+.bg-ags-bordeaux-active { background-color: $ags-bordeaux-active; }
+.bg-ags-limeyellow-active { background-color: $ags-limeyellow-active; }
+.bg-ags-turquoise-active { background-color: $ags-turquoise-active; }
+.bg-ags-red-75 { background-color: $ags-red-75; }
+.bg-ags-red-50 { background-color: $ags-red-50; }
+.bg-ags-red-25 { background-color: $ags-red-25; }
+.bg-ags-bordeaux-75 { background-color: $ags-bordeaux-75; }
+.bg-ags-bordeaux-50 { background-color: $ags-bordeaux-50; }
+.bg-ags-bordeaux-25 { background-color: $ags-bordeaux-25; }
+.bg-ags-bordeaux-dark { background-color: $ags-bordeaux-dark; }
+.bg-ags-limeyellow-75 { background-color: $ags-limeyellow-75; }
+.bg-ags-limeyellow-50 { background-color: $ags-limeyellow-50; }
+.bg-ags-limeyellow-25 { background-color: $ags-limeyellow-25; }
+.bg-ags-turquoise-75 { background-color: $ags-turquoise-75; }
+.bg-ags-turquoise-50 { background-color: $ags-turquoise-50; }
+.bg-ags-turquoise-25 { background-color: $ags-turquoise-25; }
+.bg-ags-turquoise-dark { background-color: $ags-turquoise-dark; }
+.bg-ags-black { background-color: $ags-black; }
+.bg-ags-darkgrey { background-color: $ags-darkgrey; }
+.bg-ags-darkgrey-active { background-color: $ags-darkgrey-active; }
+.bg-ags-darkgrey-75 { background-color: $ags-darkgrey-75; }
+.bg-ags-darkgrey-25 { background-color: $ags-darkgrey-25; }
+.bg-ags-middlegrey { background-color: $ags-middlegrey; }
+.bg-ags-lightgrey { background-color: $ags-lightgrey; }
+.bg-ags-ultralightgrey { background-color: $ags-ultralightgrey; }
+
+
+
+// additional color for ags
+// $ags-dirty-white: #ffffffe4;
+$ags-dirty-white: rgba(255, 255, 255, 0.90);
+$ags-accent-color: #404040;
+$ags-background-grey: #e6e6e6;
+
+$ags-orange: #FFA500;
+$ags-yellow: #FFFF00;
+$ags-green: #008000;
+$ags-red: #FF0000;

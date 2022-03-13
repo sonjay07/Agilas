@@ -1,0 +1,193 @@
+/*!
+ * Agilas UI v0.0.1 (https://agilas-ui.com/)
+ * Copyright 2022 The Agilas Authors
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+.bg-ags-red {
+  background-color: #EA1C0A; }
+
+.bg-ags-white {
+  background-color: #ffffff; }
+
+.bg-ags-turquoise {
+  background-color: #1EA2B1; }
+
+.bg-ags-bordeaux {
+  background-color: #B00402; }
+
+.bg-ags-limeyellow {
+  background-color: #E3E000; }
+
+.bg-ags-black {
+  background-color: #000000; }
+
+.bg-ags-darkgrey {
+  background-color: #39393A; }
+
+.bg-ags-red-active {
+  background-color: #D51607; }
+
+.bg-ags-bordeaux-active {
+  background-color: #A00311; }
+
+.bg-ags-limeyellow-active {
+  background-color: #DAD600; }
+
+.bg-ags-turquoise-active {
+  background-color: #2B91A3; }
+
+.bg-ags-red-75 {
+  background-color: #f05548; }
+
+.bg-ags-red-50 {
+  background-color: #f48D84; }
+
+.bg-ags-red-25 {
+  background-color: #fAC6C2; }
+
+.bg-ags-bordeaux-75 {
+  background-color: #c44341; }
+
+.bg-ags-bordeaux-50 {
+  background-color: #d78180; }
+
+.bg-ags-bordeaux-25 {
+  background-color: #ebc0c0; }
+
+.bg-ags-bordeaux-dark {
+  background-color: #76020C; }
+
+.bg-ags-limeyellow-75 {
+  background-color: #eae840; }
+
+.bg-ags-limeyellow-50 {
+  background-color: #f1ef7f; }
+
+.bg-ags-limeyellow-25 {
+  background-color: #f8f7bf; }
+
+.bg-ags-turquoise-75 {
+  background-color: #56b9c5; }
+
+.bg-ags-turquoise-50 {
+  background-color: #8ed0d8; }
+
+.bg-ags-turquoise-25 {
+  background-color: #c7e8eb; }
+
+.bg-ags-turquoise-dark {
+  background-color: #0F738A; }
+
+.bg-ags-black {
+  background-color: #000000; }
+
+.bg-ags-darkgrey {
+  background-color: #39393A; }
+
+.bg-ags-darkgrey-active {
+  background-color: #404040; }
+
+.bg-ags-darkgrey-75 {
+  background-color: #404040; }
+
+.bg-ags-darkgrey-25 {
+  background-color: #bfbfbf; }
+
+.bg-ags-middlegrey {
+  background-color: #8F9192; }
+
+.bg-ags-lightgrey {
+  background-color: #E8E8E8; }
+
+.bg-ags-ultralightgrey {
+  background-color: #F6F6F7; }
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: rem;
+  border-radius: 0.25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out; }
+  .btn:hover {
+    background-color: #0F738A; }
+
+.btn-primary {
+  background-color: #2B91A3; }
+
+.btn-secondary {
+  background-color: #f05548; }
+  .btn-secondary:hover {
+    background-color: #f48D84; }
+
+.btn-success {
+  background-color: #008000; }
+
+.btn-error {
+  background-color: #FF0000; }
+
+.btn-warning {
+  background-color: #E3E000; }
+
+.btn-info {
+  background-color: #008000; }
+
+.btn-link {
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  cursor: pointer; }
+
+.container {
+  display: grid;
+  grid-template-rows: repeat(12, 1fr); }
+  .container .item--2 {
+    background-color: pink; }
+  .container .item--3 {
+    background-color: black; }
+  .container .item--4 {
+    background-color: violet; }
+  .container .item--5 {
+    background-color: green; }
+  .container .item--6 {
+    background-color: orange; }
+  .container .item--7 {
+    background-color: purple; }
+  .container .item--8 {
+    background-color: indigo; }
+  .container .item-9 {
+    background-color: brown; }
+  .container .item--10 {
+    background-color: orange; }
+  .container .item--11 {
+    background-color: purple; }
+  .container .item--12 {
+    background-color: blue; }

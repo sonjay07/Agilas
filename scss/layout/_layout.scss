@@ -1,0 +1,48 @@
+.container {
+    //background-color: pink;
+    display: grid;
+    grid-template-rows: repeat(12, 1fr);
+
+    .item {
+        //background-color: red;
+
+        &--1{
+            //background-color: green;
+        }
+
+        &--2{
+            background-color: pink;
+        }
+        &--3{
+            background-color: black;
+        }
+        &--4{
+            background-color: violet;
+        }
+        &--5{
+            background-color: green;
+        }
+        &--6{
+            background-color: orange;
+        }
+        &--7{
+            background-color: purple;
+        }
+        &--8{
+            background-color: indigo;
+        }
+        &-9{
+            background-color: brown;
+        }
+        &--10{
+            background-color: orange;
+        }
+        &--11{
+            background-color: purple;
+        }
+        &--12{
+            background-color: blue;
+        }
+
+    }
+}
